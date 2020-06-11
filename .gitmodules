@@ -1,0 +1,3 @@
+[submodule "newmoon"]
+	path = newmoon
+	url = https://github.com/paulyc/newmoon.git
