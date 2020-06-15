@@ -1,5 +1,5 @@
 # tetrabiblos
-Solilunar calendar based on astronomical observations. Most resembles the [Solar Hijri 
+Lunisolar calendar based solely on astronomical observations. Most resembles the [Solar Hijri 
 Calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar) out of all still currently in use, 
 but adds an additional cycle of undefined length but estimated to be somewhere around 22000-27000 
 solar years, based on the precession of the equinoxes, but unknown precisely due to random chaotic 
