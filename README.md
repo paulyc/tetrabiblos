@@ -1,4 +1,6 @@
 # tetrabiblos
+[see Calendar Gregorian Equivalents for 2020](https://github.com/paulyc/tetrabiblos/blob/flockleader/printable/tetrabiblos-bw.pdf)
+
 Lunisolar calendar based solely on astronomical observations. Most resembles the [Solar Hijri 
 Calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar) out of all still currently in use, 
 but adds an additional cycle of undefined length but estimated to be somewhere around 22000-27000 
