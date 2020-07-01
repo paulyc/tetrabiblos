@@ -1,5 +1,5 @@
 # tetrabiblos
-[see Calendar Gregorian Equivalents for 2020](https://github.com/paulyc/tetrabiblos/blob/flockleader/printable/tetrabiblos-bw.pdf)
+[see Calendar Gregorian Equivalents for 2020-21](https://github.com/paulyc/tetrabiblos/blob/flockleader/current/Tetrabiblos.png)
 
 Lunisolar calendar based solely on astronomical observations. Most resembles the [Solar Hijri 
 Calendar](https://en.wikipedia.org/wiki/Solar_Hijri_calendar) out of all still currently in use, 
